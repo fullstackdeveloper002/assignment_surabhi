@@ -5,7 +5,7 @@
     <data>
         <variable
             name="signInModel"
-            type="com.mentor.pipes.activity.pendingList.ProductListViewModel" />
+            type="com.mentor.app.activity.pendingList.ProductListViewModel" />
     </data>
 
     <LinearLayout

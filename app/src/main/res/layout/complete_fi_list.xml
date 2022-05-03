@@ -6,7 +6,7 @@
 
         <variable
             name="signInModel"
-            type="com.mentor.pipes.activity.completeList.CompleteListViewModel" />
+            type="com.mentor.app.activity.completeList.CompleteListViewModel" />
     </data>
 
     <LinearLayout

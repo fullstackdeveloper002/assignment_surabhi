@@ -6,7 +6,7 @@
     <data>
         <variable
             name="drawerVM"
-            type="com.mentor.pipes.activity.drawer.DrawerViewModel" />
+            type="com.mentor.app.activity.drawer.DrawerViewModel" />
     </data>
 
     <androidx.drawerlayout.widget.DrawerLayout

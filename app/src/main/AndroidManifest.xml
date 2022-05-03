@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mentor.pipes">
+    package="com.mentor.app">
 
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -19,7 +19,7 @@
         android:protectionLevel="normal" />
 
     <permission
-        android:name="com.mentor.pipes.permission.MAPS_RECEIVE"
+        android:name="com.mentor.app.permission.MAPS_RECEIVE"
         android:protectionLevel="signature" />
 
     <uses-permission android:name="com.lpdeal.permission.MAPS_RECEIVE" />
@@ -36,7 +36,7 @@
         android:usesCleartextTraffic="true">
 
         <activity
-            android:name="com.mentor.pipes.SplashActivity"
+            android:name="com.mentor.app.SplashActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme1.NoActionBar">
@@ -47,61 +47,61 @@
         </activity>
 
         <activity
-            android:name="com.mentor.pipes.activity.pendingList.ProductListActivity"
+            android:name="com.mentor.app.activity.pendingList.ProductListActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
 
         <activity
-            android:name=".activity.FI_formActivity"
+            android:name="com.mentor.app.activity.FI_formActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
 
         <activity
-            android:name="com.mentor.pipes.activity.home.HomeActivity"
+            android:name="com.mentor.app.activity.home.HomeActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
 
         <activity
-            android:name="com.mentor.pipes.activity.login.SignInActivity2"
-            android:launchMode="singleTask"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden" />
-
-
-        <activity
-            android:name="com.mentor.pipes.activity.drawer.DrawerActivity"
-            android:launchMode="singleTask"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden" />
-
-        <activity
-            android:name="com.mentor.pipes.activity.recordlist.RecordListActivity"
+            android:name="com.mentor.app.activity.login.SignInActivity2"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
 
 
         <activity
-            android:name=".BluePrintActivity"
+            android:name="com.mentor.app.activity.drawer.DrawerActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+
+        <activity
+            android:name="com.mentor.app.activity.recordlist.RecordListActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+
+
+        <activity
+            android:name="com.mentor.app.BluePrintActivity"
             android:label="BluePrints"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
 
         <activity
-            android:name=".activity.completeList.CompleteListActivity"
+            android:name="com.mentor.app.activity.completeList.CompleteListActivity"
             android:screenOrientation="portrait" />
 
         <activity
-            android:name=".activity.Create_fi_activity"
+            android:name="com.mentor.app.activity.Create_fi_activity"
             android:screenOrientation="portrait" />
-        <activity android:name=".activity.profile.ProfileActivity" />
-        <activity android:name=".activity.imageupload.ImageUploadActivity" />
+        <activity android:name="com.mentor.app.activity.profile.ProfileActivity" />
+        <activity android:name="com.mentor.app.activity.imageupload.ImageUploadActivity" />
 
         <activity
-            android:name=".activity.Forgot_pass"
+            android:name="com.mentor.app.activity.Forgot_pass"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
@@ -119,16 +119,7 @@
             android:name="com.google.android.gms.vision.DEPENDENCIES"
             android:value="barcode" />
 
-        <provider
-            android:name="androidx.core.content.FileProvider"
-            android:authorities="com.mentor.pipes.provider"
-            android:exported="false"
-            android:grantUriPermissions="true"
-            android:readPermission="com.kpt.pipes.fileprovider.READ">
-            <meta-data
-                android:name="android.support.FILE_PROVIDER_PATHS"
-                android:resource="@xml/provider_paths" />
-        </provider>
+
 
         <meta-data
             android:name="com.google.firebase.messaging.default_notification_icon"

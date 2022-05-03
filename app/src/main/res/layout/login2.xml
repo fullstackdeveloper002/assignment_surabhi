@@ -5,7 +5,7 @@
 
         <variable
             name="signInModel"
-            type="com.mentor.pipes.activity.login.SignInViewModel" />
+            type="com.mentor.app.activity.login.SignInViewModel" />
     </data>
 
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
