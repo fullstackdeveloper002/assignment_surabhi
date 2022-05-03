@@ -1,0 +1,4 @@
+#Sat Oct 03 12:31:56 IST 2020
+base.0=F\:\\Immersive\\roboto-calendar-view\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

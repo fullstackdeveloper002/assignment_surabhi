@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/surabhi/KPT_PIPES/28/KPT/app/src/main/res/layout/activity_main.xml" value="0.14427083333333332" />
+        <entry key="..\:/surabhi/KPT_PIPES/28/KPT/app/src/main/res/layout/add_plumber.xml" value="0.2" />
+        <entry key="..\:/surabhi/KPT_PIPES/28/KPT/app/src/main/res/layout/drawer.xml" value="0.15885416666666666" />
+        <entry key="..\:/surabhi/KPT_PIPES/28/KPT/app/src/main/res/layout/home_layout.xml" value="0.1734375" />
+        <entry key="..\:/surabhi/KPT_PIPES/KPT/app/src/main/res/layout/activity_web_view.xml" value="0.21041666666666667" />
+        <entry key="..\:/surabhi/KPT_PIPES/KPT/app/src/main/res/layout/content_about_us.xml" value="0.21041666666666667" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/drawable/bg_round_top.xml" value="0.23541666666666666" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/drawable/border_add.xml" value="0.21197916666666666" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/drawable/border_colored.xml" value="0.23541666666666666" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/drawable/border_thin.xml" value="0.23541666666666666" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/drawable/corner_radius.xml" value="0.21197916666666666" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/drawable/dotted_line.xml" value="0.209375" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.194" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.23541666666666666" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.21197916666666666" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/drawable/ic_cancel.xml" value="0.194" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/drawable/ic_forget_password.xml" value="0.21197916666666666" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/drawable/ic_location.xml" value="0.1495" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/drawable/ic_tick.xml" value="0.20364583333333333" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/drawable/round_baclground.xml" value="0.23541666666666666" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/drawable/shape_drop_down_normal.xml" value="0.21197916666666666" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/activity_main.xml" value="0.15260416666666668" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/activity_maps.xml" value="0.15260416666666668" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/activity_splash.xml" value="0.14010416666666667" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/activity_web_view.xml" value="0.18125" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/adapter_home.xml" value="0.17135416666666667" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/adapter_image_slider.xml" value="0.17135416666666667" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/adapter_list.xml" value="0.21041666666666667" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/adapter_order_list.xml" value="0.1546875" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/adapter_product_list.xml" value="0.22" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/add_dealer.xml" value="0.21041666666666667" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/blueprint_form.xml" value="0.18" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/bottom_custom.xml" value="0.22" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/bottom_plumber.xml" value="0.17" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/complete_fi_list.xml" value="0.25" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/create_new_fi.xml" value="0.25" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/dashboard_layout.xml" value="0.17760416666666667" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/dialog_filter.xml" value="0.21041666666666667" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/dialog_order_add.xml" value="0.1" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/divider.xml" value="0.21041666666666667" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/drawer.xml" value="0.15" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/edittext_demo.xml" value="0.2" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/fi_form.xml" value="0.2" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/forget_pass.xml" value="0.15" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/forgot_password.xml" value="0.22" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/home_layout.xml" value="0.2" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/image_upload.xml" value="0.22" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/item_image.xml" value="0.25" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/login2.xml" value="0.33" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/main.xml" value="0.17447916666666666" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/office_form.xml" value="0.21523708044752266" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/office_form_blueprint.xml" value="0.25" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/order_list.xml" value="0.2" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/productlist.xml" value="0.19" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/profile.xml" value="0.25" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/recidence_form.xml" value="0.2" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/layout/residence_form_blueprint.xml" value="0.25" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.1" />
+        <entry key="..\:/surabhi/Mentor/mentor_android_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19635416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

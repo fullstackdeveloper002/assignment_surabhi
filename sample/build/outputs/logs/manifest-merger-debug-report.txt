@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [:library] F:\Immersive\roboto-calendar-view\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\6a789868e665e05ceafe1b1d390c2ab2\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\7e2ff173fafce0b896bd30821debad7a\AndroidManifest.xml:17:1-22:12
+MERGED from [io.github.inflationx:calligraphy3:3.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\calligraphy3-3.0.0.aar\ec739473aab502478f6ffd5850c8a1bd\AndroidManifest.xml:2:1-13:12
+MERGED from [io.github.inflationx:viewpump:1.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\viewpump-1.0.0.aar\d79982a23444e11d6dc2781828e80d47\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\00a716a91e3a7be7e328c0f448cfe604\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\fb6818cfa15fd9179ae6a8cdcd95fbbb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2d7d1ada4dd6250ce5aea813e8c4052b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\774789dc893e757289911a9ae98a2250\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\3eeed27ae409c8ec6a762a72773f4ad6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bd7e8c69482cc0c7759ad9128bea4b7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f971db8aabee3d59afbde5ca033f6f16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\092abe4360fd032ae5e91abbe493462d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\1eb0d153cfbf546c25b078fc6631ce90\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fac2759e44d5a7faef5da3f64a26989b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\74d8a0fb46f2b3bd9ac70a26201a00b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\346dc8979057c67a3c8039c95a5018f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\257850bbe20f462747356b0cd62ed27f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ad6b5ed0f1225d3d99049e802cc352f5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d801b07df5ae88896444ff92669f9f6c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\760a65e61f5069e57805f56006b926b2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2debbb0a81d20f244b240738b9fe704d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f6f2a839a2abb463b041c0f67b87ad6d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a19f44201c42a52679565ef40f2fe837\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4f15531d4a0d4bd5c09d5d7c5b0d6ce6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1be4bd8dcdb0bd69bc271970bb370e56\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\eb7908797db99614d16c5bbd0fc4a76f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\aa7a54e10a84987be54302d1caab7f98\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5d35aab66186051277795bb599c6435c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5a4b491c786e79b4a200e2497f8cb4c8\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml:3:5-47
+	android:versionName
+		INJECTED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml
+		ADDED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml
+		ADDED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml:4:5-63
+application
+ADDED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml:6:5-20:19
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\6a789868e665e05ceafe1b1d390c2ab2\AndroidManifest.xml:11:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\6a789868e665e05ceafe1b1d390c2ab2\AndroidManifest.xml:11:5-20
+MERGED from [io.github.inflationx:calligraphy3:3.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\calligraphy3-3.0.0.aar\ec739473aab502478f6ffd5850c8a1bd\AndroidManifest.xml:11:5-20
+MERGED from [io.github.inflationx:calligraphy3:3.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\calligraphy3-3.0.0.aar\ec739473aab502478f6ffd5850c8a1bd\AndroidManifest.xml:11:5-20
+MERGED from [io.github.inflationx:viewpump:1.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\viewpump-1.0.0.aar\d79982a23444e11d6dc2781828e80d47\AndroidManifest.xml:11:5-20
+MERGED from [io.github.inflationx:viewpump:1.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\viewpump-1.0.0.aar\d79982a23444e11d6dc2781828e80d47\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ad6b5ed0f1225d3d99049e802cc352f5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ad6b5ed0f1225d3d99049e802cc352f5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d801b07df5ae88896444ff92669f9f6c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d801b07df5ae88896444ff92669f9f6c\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ad6b5ed0f1225d3d99049e802cc352f5\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml:8:9-45
+	android:allowBackup
+		ADDED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml:10:9-53
+activity#com.marcohc.robotocalendar.sample.MainActivity
+ADDED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml:11:9-19:20
+	android:label
+		ADDED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml:13:13-45
+	android:name
+		ADDED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml:12:13-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml
+INJECTED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml
+MERGED from [:library] F:\Immersive\roboto-calendar-view\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:library] F:\Immersive\roboto-calendar-view\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\6a789868e665e05ceafe1b1d390c2ab2\AndroidManifest.xml:7:5-9:41
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\6a789868e665e05ceafe1b1d390c2ab2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\7e2ff173fafce0b896bd30821debad7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\7e2ff173fafce0b896bd30821debad7a\AndroidManifest.xml:20:5-44
+MERGED from [io.github.inflationx:calligraphy3:3.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\calligraphy3-3.0.0.aar\ec739473aab502478f6ffd5850c8a1bd\AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.inflationx:calligraphy3:3.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\calligraphy3-3.0.0.aar\ec739473aab502478f6ffd5850c8a1bd\AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.inflationx:viewpump:1.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\viewpump-1.0.0.aar\d79982a23444e11d6dc2781828e80d47\AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.inflationx:viewpump:1.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\viewpump-1.0.0.aar\d79982a23444e11d6dc2781828e80d47\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\00a716a91e3a7be7e328c0f448cfe604\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\00a716a91e3a7be7e328c0f448cfe604\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\fb6818cfa15fd9179ae6a8cdcd95fbbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\fb6818cfa15fd9179ae6a8cdcd95fbbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2d7d1ada4dd6250ce5aea813e8c4052b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2d7d1ada4dd6250ce5aea813e8c4052b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\774789dc893e757289911a9ae98a2250\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\774789dc893e757289911a9ae98a2250\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\3eeed27ae409c8ec6a762a72773f4ad6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\3eeed27ae409c8ec6a762a72773f4ad6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bd7e8c69482cc0c7759ad9128bea4b7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bd7e8c69482cc0c7759ad9128bea4b7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f971db8aabee3d59afbde5ca033f6f16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f971db8aabee3d59afbde5ca033f6f16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\092abe4360fd032ae5e91abbe493462d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\092abe4360fd032ae5e91abbe493462d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\1eb0d153cfbf546c25b078fc6631ce90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\1eb0d153cfbf546c25b078fc6631ce90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fac2759e44d5a7faef5da3f64a26989b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fac2759e44d5a7faef5da3f64a26989b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\74d8a0fb46f2b3bd9ac70a26201a00b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\74d8a0fb46f2b3bd9ac70a26201a00b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\346dc8979057c67a3c8039c95a5018f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\346dc8979057c67a3c8039c95a5018f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\257850bbe20f462747356b0cd62ed27f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\257850bbe20f462747356b0cd62ed27f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ad6b5ed0f1225d3d99049e802cc352f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ad6b5ed0f1225d3d99049e802cc352f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d801b07df5ae88896444ff92669f9f6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d801b07df5ae88896444ff92669f9f6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\760a65e61f5069e57805f56006b926b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\760a65e61f5069e57805f56006b926b2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2debbb0a81d20f244b240738b9fe704d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2debbb0a81d20f244b240738b9fe704d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f6f2a839a2abb463b041c0f67b87ad6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f6f2a839a2abb463b041c0f67b87ad6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a19f44201c42a52679565ef40f2fe837\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a19f44201c42a52679565ef40f2fe837\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4f15531d4a0d4bd5c09d5d7c5b0d6ce6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4f15531d4a0d4bd5c09d5d7c5b0d6ce6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1be4bd8dcdb0bd69bc271970bb370e56\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1be4bd8dcdb0bd69bc271970bb370e56\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\eb7908797db99614d16c5bbd0fc4a76f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\eb7908797db99614d16c5bbd0fc4a76f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\aa7a54e10a84987be54302d1caab7f98\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\aa7a54e10a84987be54302d1caab7f98\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5d35aab66186051277795bb599c6435c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5d35aab66186051277795bb599c6435c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5a4b491c786e79b4a200e2497f8cb4c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Surbhi jain\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5a4b491c786e79b4a200e2497f8cb4c8\AndroidManifest.xml:20:5-44
+INJECTED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml
+INJECTED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml
+		ADDED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml
+		INJECTED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml
+		ADDED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml
+		INJECTED from F:\Immersive\roboto-calendar-view\sample\src\main\AndroidManifest.xml

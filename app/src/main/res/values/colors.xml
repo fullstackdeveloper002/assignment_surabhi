@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorPrimary">#242424</color>
+    <color name="colorPrimaryDark">#c6392e</color>
+    <color name="colorPrimaryDark_trans">#38E7DBDA</color>
+    <color name="colorAccent">#242424</color>
+    <color name="AccentLight">#806ACF</color>
+    <color name="AccentLight1">#9F8FD8</color>
+    <color name="red">#c6392e</color>
+    <color name="faintGrey">#79DCDCDC</color>
+    <color name="hintColor">#808080</color>
+    <color name="red_dark">#ff4033</color>
+    <color name="white_trans">#7DFFFFFF</color>
+    <color name="main_trans">#4D00ADF1</color>
+    <color name="black">#242424</color>
+    <color name="black1">#000000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="gray">#E6E8EE</color>
+    <color name="dark_gray">#B7B7B7</color>
+    <color name="soft_gray">#f5f5f5</color>
+    <color name="soft_gray_dark">#FEF2F2F2</color>
+    <color name="bck">#F8F8FA</color>
+    <color name="gray_text_color">#757575</color>
+
+    <color name="port_gore">#2C364E</color>
+    <color name="drawer_color">#2F485E</color>
+    <color name="bunting">#353847</color>
+    <color name="background">#dddddd</color>
+
+    <color name="black_transparent">#700C0C0C</color>
+    <color name="black_transparent_light">#70686868</color>
+    <color name="black_transparent_light1">#8A757373</color>
+    <color name="black_trans_more_light">#1DDDDADA</color>
+    <color name="trycolor">#99706F6F</color>
+    <color name="dark_black_gray">#787979</color>
+    <color name="tertiary_text">#484848</color>
+
+    <color name="example_1_bg">#3A284C</color>
+    <color name="example_1_bg_light">#433254</color>
+    <color name="example_1_white_light">#4DFFFFFF</color>
+    <color name="example_1_white">#D9FFFFFF</color>
+    <color name="example_2_black">#D9000000</color>
+    <color name="example_2_white">#D9FFFFFF</color>
+    <color name="example_2_red">#F44336</color>
+    <color name="example_3_black">#D9000000</color>
+    <color name="example_3_white">#D9FFFFFF</color>
+    <color name="example_3_blue">#A3B5CB</color>
+    <color name="example_3_blue_light">#D2E3FC</color>
+    <color name="example_3_toolbar_color">#607D8B</color>
+    <color name="example_3_statusbar_color">#455A64</color>
+    <color name="example_4_grey">#474747</color>
+    <color name="example_4_green">#008489</color>
+    <color name="example_4_grey_past">#BEBEBE</color>
+    <color name="example_5_page_bg_color">#0E0E0E</color>
+    <color name="example_5_item_view_bg_color">#1B1B1B</color>
+    <color name="example_5_toolbar_color">#282828</color>
+    <color name="example_5_text_grey">#bdbdbd</color>
+    <color name="example_5_text_grey_light">#616161</color>
+    <color name="example_6_month_bg_color">#b2ebf2</color>
+    <color name="brown_700">#5D4037</color>
+    <color name="blue_grey_700">#455A64</color>
+    <color name="orange_800">#EF6C00</color>
+    <color name="green_700">#388E3C</color>
+    <color name="teal_700">#00796B</color>
+    <color name="green_light">#86D4E4C1</color>
+    <color name="pink_700">#C2185B</color>
+    <color name="red_800">#67EC9F87</color>
+    <color name="red_800_dark">#E6EC815F</color>
+    <color name="blue_800">#1565C0</color>
+    <color name="navy_blue">#1D4C81</color>
+    <color name="cyan_700">#0097A7</color>
+    <color name="example_6_black">#BF000000</color>
+    <color name="example_7_white">#D9FFFFFF</color>
+    <color name="example_7_yellow">#FFEB3B</color>
+    <color name="float_transparent">#00000000</color>
+
+    <color name="sampleDark">#1B5E20</color>
+    <color name="sampleLight">#388E3C</color>
+    <color name="sampleLighter">#4CAF50</color>
+
+    <color name="yello_eng">#FFC107</color>
+
+    <color name="dialogAccent">#795548</color>
+    <color name="red_purple">#F94A88</color>
+    <color name="dodgerblue">#4F80FF</color>
+    <color name="jaffa">#F47C4A</color>
+    <color name="violet_red">#F94A88</color>
+    <color name="sampleLighter1">#67B1CD8A</color>
+    <color name="sampleLighter1_dark">#B1CD8A</color>
+    <color name="cornflowerblue">#784AF5</color>
+    <color name="monza">#D10030</color>
+    <color name="eastern_blue">#17A2B8</color>
+    <color name="apple">#3DA237</color>
+
+    <color name="saffron_mango">#FBC456</color>
+    <color name="electric_violet">#8F0BFF</color>
+    <color name="danube">#58A1CC</color>
+    <color name="sky_blue">#94bfac</color>
+    <color name="middle_buff">#F0C777</color>
+    <color name="qr_code_reader_square">#FFFFFFFF</color>
+
+</resources>
+

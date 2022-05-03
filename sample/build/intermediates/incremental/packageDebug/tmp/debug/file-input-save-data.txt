@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sat Oct 03 12:31:57 IST 2020
+1.base=F\:\\Immersive\\roboto-calendar-view\\sample\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+2.path=classes.dex
+0.baseType=DIRECTORY
+2.base=F\:\\Immersive\\roboto-calendar-view\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+2.set=DEX
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=fonts/Cabin-Bold.ttf
+0.set=ASSET
+0.base=F\:\\Immersive\\roboto-calendar-view\\sample\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+2.baseType=DIRECTORY
+1.path=fonts/Cabin-Regular.ttf
