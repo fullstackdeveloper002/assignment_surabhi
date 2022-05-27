@@ -1,44 +1,4 @@
 <resources>
     <attr name="yourAttrName" format="string" />
-    <string name="app_name">Mentor</string>
-    <string name="title_activity_main">MainActivity</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
-    <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
-
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
-    <string name="menu_tools">Tools</string>
-    <string name="menu_share">Share</string>
-    <string name="menu_send">Send</string>
-    <string name="please_wait">Please wait..</string>
-    <string name="calendar_item_new_count">%dab</string>
-    <string name="official_website">Official Website</string>
-
-    <!--<string name="official_website"><a href="http://www.unicharm.co.jp/english/index.html">google stack overflow</a></string>-->
-
-    <string name="agree_terms_privacy">By continuing, you agree to our <a href="http://link1/terms">Terms of Use</a> and read the <a href="http://link1/privacy">Privacy Policy</a></string>
-    <string name="people_who_need_help_create_a_free_request_elaborating_on_their_needs_volunatary_rendered_unaale_to_do_certain_thinks_reason_could_be_illness_quarantine_or_some_other_special_situation_with_gully_seve_you_can_create_a_request_for_help_quickly_and_easily">People who need help create a free request, elaborating on their needs. Volunatary rendered unaale to do certain thinks. Reason could be illness, quarantine or some other special situation. With Gully Seva you can create a request for help quickly and easily.</string>
-    <string name="mobile">Mobile Number <font color='red'>*</font></string>
-    <string name="location">Detect your location <font color='red'>*</font></string>
-    <string name="photo">Capture your live photo <font color='red'>*</font></string>
-    <string name="aadhar">Upload your aadhar card <font color='red'>*</font></string>
-    <string name="aadhar_number">Enter your aadhar card number <font color='red'>*</font></string>
-    <string name="fullname">Full Name <font color='red'>*</font></string>
-    <string name="otp_sent_on_register_mobile_n_for_sign_in">OTP sent on register mobile for Sign in<font color='red'>*</font></string>
-    <string name="otp_sent_on_register_mobile_n_for_sign_up">OTP sent on register mobile for Sign up<font color='red'>*</font></string>
-    <string name="select_language" translatable="false">Select Language</string>
-    <string name="title">Title</string>
-    <string name="query">Query</string>
-    <string name="action_continue">Continue</string>
-    <string name="google_maps_key">AIzaSyBk3GDXeUn2rukFubva2PY_kn67ZA0wiGc</string>
-    <string name="select_vehicle"><font fgcolor="#B7B7B7">Select vehicle type</font></string>
-
-    <string name="dialog_permission_title">Grant Permissions</string>
-    <string name="dialog_permission_message">This app needs permission to use this feature. You can grant them in app settings.</string>
-    <string name="go_to_settings">GOTO SETTINGS</string>
+    <string name="app_name">TestApplication</string>
 </resources>

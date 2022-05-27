@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mentor.app">
+    package="com.test.app">
 
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -19,7 +19,7 @@
         android:protectionLevel="normal" />
 
     <permission
-        android:name="com.mentor.app.permission.MAPS_RECEIVE"
+        android:name="com.test.app.permission.MAPS_RECEIVE"
         android:protectionLevel="signature" />
 
     <uses-permission android:name="com.lpdeal.permission.MAPS_RECEIVE" />
@@ -36,7 +36,7 @@
         android:usesCleartextTraffic="true">
 
         <activity
-            android:name="com.mentor.app.SplashActivity"
+            android:name=".TestActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme1.NoActionBar">
@@ -45,90 +45,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity
-            android:name="com.mentor.app.activity.pendingList.ProductListActivity"
-            android:launchMode="singleTask"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden" />
-
-        <activity
-            android:name="com.mentor.app.activity.FI_formActivity"
-            android:launchMode="singleTask"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden" />
-
-        <activity
-            android:name="com.mentor.app.activity.home.HomeActivity"
-            android:launchMode="singleTask"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden" />
-
-        <activity
-            android:name="com.mentor.app.activity.login.SignInActivity2"
-            android:launchMode="singleTask"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden" />
-
-
-        <activity
-            android:name="com.mentor.app.activity.drawer.DrawerActivity"
-            android:launchMode="singleTask"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden" />
-
-        <activity
-            android:name="com.mentor.app.activity.recordlist.RecordListActivity"
-            android:launchMode="singleTask"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden" />
-
-
-        <activity
-            android:name="com.mentor.app.BluePrintActivity"
-            android:label="BluePrints"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden" />
-
-        <activity
-            android:name="com.mentor.app.activity.completeList.CompleteListActivity"
-            android:screenOrientation="portrait" />
-
-        <activity
-            android:name="com.mentor.app.activity.Create_fi_activity"
-            android:screenOrientation="portrait" />
-        <activity android:name="com.mentor.app.activity.profile.ProfileActivity" />
-        <activity android:name="com.mentor.app.activity.imageupload.ImageUploadActivity" />
-
-        <activity
-            android:name="com.mentor.app.activity.Forgot_pass"
-            android:launchMode="singleTask"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden" />
-
-
-        <meta-data
-            android:name="com.google.android.gms.version"
-            android:value="@integer/google_play_services_version" />
-
-        <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="@string/google_maps_key" />
-
-        <meta-data
-            android:name="com.google.android.gms.vision.DEPENDENCIES"
-            android:value="barcode" />
-
-
-
-        <meta-data
-            android:name="com.google.firebase.messaging.default_notification_icon"
-            android:resource="@drawable/logo_png" />
-
-        <meta-data
-            android:name="com.google.firebase.messaging.default_notification_color"
-            android:resource="@color/colorPrimary" />
-
 
     </application>
 
